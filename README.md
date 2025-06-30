@@ -9,6 +9,10 @@ ASP.NET Core 8 Web API using PostgreSQL and Redis (Memurai-compatible) for local
 - Cache invalidation via PostgreSQL LISTEN/NOTIFY
 - Swagger UI
 
+## Architecture Diagram
+
+![Architecture Diagram](Architecture_Diagram.png)
+
 ## Setup Instructions
 
 ### Prerequisites
